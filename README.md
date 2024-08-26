@@ -2,7 +2,7 @@
 
 
 ```markdown
-# Turn-Based Game
+# Turn-based Chess-like Game with Websocket Communication
 
 ## Overview
 
